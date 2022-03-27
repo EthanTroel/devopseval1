@@ -1,4 +1,4 @@
-[![Actions Status](https://github.com/{EthanTroel}/{devopseval1}/workflows/{CI/CD}/badge.svg)](https://github.com/{EthanTroel}/{devopseval1}/actions)
+[![Actions Status](https://github.com/EthanTroel/devopseval1/workflows/CI/CD/badge.svg)](https://github.com/EthanTroel/devopseval1/actions)
 
 
 # Getting Started with Create React App
